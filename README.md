@@ -41,7 +41,7 @@ Desarrollador de software y capacitador con una doble formación en **ingenierí
 
 ---
 
-## 📊 En lo que me estoy formando ahora
+## En lo que me estoy formando ahora
 
 Estoy profundizando en **análisis de datos**, llevando mi experiencia en procesos productivos hacia la toma de decisiones basada en datos:
 
@@ -84,14 +84,14 @@ Estoy profundizando en **análisis de datos**, llevando mi experiencia en proces
 
 ---
 
-## 📈 Actividad
+<!-- ## 📈 Actividad
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Archila&show_icons=true&hide_border=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archila&layout=compact&hide_border=true&locale=es&theme=tokyonight" alt="Lenguajes más usados" />
 
-</div>
+</div> -->
 
 ---
 
